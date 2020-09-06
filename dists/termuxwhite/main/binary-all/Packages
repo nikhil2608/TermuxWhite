@@ -1,0 +1,164 @@
+Package: haxrat
+Architecture: all
+Version: 1.0-1
+Maintainer: WaSim Akram @evildevill
+Installed-Size: 37944
+Depends: nodejs, apkmod
+Filename: dists/termuxwhite/main/binary-all/haxrat_1.0-1_all.deb
+Size: 17969828
+MD5sum: 988d04627283f6a25683bedc23f70d31
+SHA1: 2b151a4241548f2688b348c1f5f11d0307ac163f
+SHA256: 1e54e32e085732ba85d1bff46fec44c6dce24891eb757ec3ddb3a10a60767183
+SHA512: c645e50562a7afc5c7e0c2b456dec60cba2b36d36a92836e2e831a3c04fdb8281f79d051bb7698dc7cdce340f77e8e105656db75a68ff78d4e563b8e78f75207
+Homepage: https://github.com/hax4us/haxRat.git
+Description: Remote Android Managment Suite
+
+Package: lemon
+Architecture: all
+Version: 2.1-2
+Maintainer: WaSim Akram @evildevill
+Installed-Size: 28356
+Depends: nodejs, apkmod
+Filename: dists/termuxwhite/main/binary-all/lemon_2.1-2_all.deb
+Size: 18753908
+MD5sum: 60edc16fcfeb987ddf0ec0cf5c0fcb27
+SHA1: f124dc3f338f44d3e557287bd576fcfa0311bf58
+SHA256: 0b5542edcd03d9d492323275cb5a6d91cf4f8016515cccaadcefa5cc0bf4ed9b
+SHA512: 185d50e008e14f65f76d2ec3b7bbb2bb5a8bd2d457dafc472d7f353fe85958193d54d99c9c91f8441c9ecbd3b3098cfbf88fba02096a24be475a6ce757f04ab5
+Homepage: https://github.com/D3VL/L3MON
+Description: Remote Android Managment Suite
+
+Package: lemon
+Architecture: all
+Version: 2.1-1
+Maintainer: WaSim Akram @evildevill
+Installed-Size: 28356
+Depends: nodejs, apkmod
+Filename: dists/termuxwhite/main/binary-all/lemon_2.1-1_all.deb
+Size: 18753798
+MD5sum: 55a3fe932154624f0b421d5f900e0482
+SHA1: e98fa492a7c41c39d3f701c19dce3fa1db8e9d74
+SHA256: 89798d1697c6d0fe97d80f0e52e035b624c09e5bf726e9a6484850d34077e90f
+SHA512: f66dea42ac52f410a5cf23076c4ce76956e6742d006836e6c18ed0234d167d2726cc337871053abd07fb03c481157c221d3c60eb8c776d3bebac058c062bfa4e
+Homepage: https://github.com/D3VL/L3MON
+Description: Remote Android Managment Suite
+
+Package: haxrat
+Architecture: all
+Version: 1.0
+Maintainer: WaSim Akram @evildevill
+Installed-Size: 21980
+Depends: nodejs, apkmod
+Filename: dists/termuxwhite/main/binary-all/haxrat_1.0_all.deb
+Size: 1923054
+MD5sum: 5224287335d38f7217e832b8578be394
+SHA1: fce465e78c79620a95599b2424fadd2f7240391a
+SHA256: 02b01d30c1b6ac6f4c942a64007b9afa1984a6146dc98bed827474e53e6a8eb3
+SHA512: 5c32c76db08b76d636750fb65ae9bb601aa06866d2ff48e7328e52dd351ea24bd5599ef8d501b1f58634f03788f30951ed7965d9d616e2b7f72434264a65c5df
+Homepage: https://github.com/hax4us/haxRat.git
+Description: Remote Android Managment Suite
+
+Package: apkmod
+Architecture: all
+Version: 2.0-2
+Maintainer: WaSim Akram @evildevill
+Installed-Size: 4
+Depends: aapt, apksigner, wget, bc, proot, bsdtar
+Filename: dists/termuxwhite/main/binary-all/apkmod_2.0-2_all.deb
+Size: 902
+MD5sum: 04a37e8a33383c719c8317b279a098f9
+SHA1: 74f5b7fff7a2cc706dbb0e061cc267f0b22241c3
+SHA256: a72a6ef4162795d7611b2fee9dccaceac7ea5abfa00f005435c71db3e74218b5
+SHA512: b7cb7e69d4b9c79468e9baf3f4aee3ef472c2b7c3892e99c6618c7906350d336cb8e3871ebe59f0dd44660933bd0fc1c4e0caeeb2262cd1dbd55db59390db2cd
+Homepage: https://github.com/Hax4Us/Apkmod
+Description: Apkmod can decompile, recompile, sign APK, and bind the payload with any legit APP
+
+Package: msfpc
+Architecture: all
+Version: 1.0
+Maintainer: WaSim Akram @evildevill
+Installed-Size: 4
+Filename: dists/termuxwhite/main/binary-all/msfpc_1.0_all.deb
+Size: 870
+MD5sum: 7f993a51caa7eb69f2655f13a98d13b4
+SHA1: b3872f54ab31ddb30e392ee84e0c22f5747d8541
+SHA256: 7157f340dd40ca3e0d403052b6c060ff0c6e7813242f495231f26199d8d5bdfd
+SHA512: 31c55cb679d0e131c96519c91b8dc9968d70a6213e75b8a8594a28834d54cb7b587da90346d97da0c94f9de975f66f08dd61ba5a69fe202de02a0e9e779ec9d3
+Homepage: https://github.com/abhishekchauhan-dev/msfpc
+Description: MSFvenom Payload Creator (MSFPC) For Termux A quick way to generate various Meterpreter payloads via msfvenom
+
+Package: haxrat
+Architecture: all
+Version: 1.0-2
+Maintainer: WaSim Akram @evildevill
+Installed-Size: 37944
+Depends: nodejs, apkmod
+Filename: dists/termuxwhite/main/binary-all/haxrat_1.0-2_all.deb
+Size: 17969718
+MD5sum: 4424675ab889c2721fba040167160333
+SHA1: 1d10f3e80744276b0dcdafac7125cdb081e01acf
+SHA256: dad94b1a9237fe288e977b6407b4cc1cbfb52b0976cacbe3b0894c186a1733a5
+SHA512: 25840b2e09ba0a58057316bf03298a87a34466d2fd28950455ae61891b8e727b208f135517302f2d6e5c5c8dee715281cf6db6b120213627413e384226f36b3c
+Homepage: https://github.com/hax4us/haxRat.git
+Description: Remote Android Managment Suite
+
+Package: lemon
+Architecture: all
+Version: 2.1
+Maintainer: WaSim Akram @evildevill
+Installed-Size: 28328
+Depends: nodejs, apkmod
+Filename: dists/termuxwhite/main/binary-all/lemon_2.1_all.deb
+Size: 18752514
+MD5sum: 257b049301dd7b095052dd6c57cbb5a5
+SHA1: dd71b55c5f1ca9a477cd3d0b8a85f72f30922ff2
+SHA256: 0d207d3c5dfeecf220de3582b1bdf82a952065a8322676ee33a8c9566cd9a1aa
+SHA512: 01329028ca130edcf8a63e168a7d04e96c8318cef918648a83b5f7ff8e9076fff55d41ad6520ead8bd28f1300a22da1c0fdedc00b2e851c3b156bf80fefa4e7e
+Homepage: https://github.com/D3VL/L3MON
+Description: Remote Android Managment Suite
+
+Package: beef-xss
+Architecture: all
+Version: 0.5.0.0-alpha-pre-0
+Maintainer: WaSim Akram @evildevill
+Installed-Size: 29172
+Depends: pkg-config, patchelf, geoip2-database, make, clang, libllvm, termux-elf-cleaner, termux-elf-cleaner-5, findutils, nodejs, ruby, libsqlite, libxslt, libxslt
+Filename: dists/termuxwhite/main/binary-all/beef-xss_0.5.0.0-alpha-pre-0_all.deb
+Size: 3908672
+MD5sum: d4b8d76fedc2e2701aebd09bba717e7e
+SHA1: 2f422d5f26baaed202b41104fd210bde257bd604
+SHA256: 955012cbc0e7c2566731743e8a56af6cae013bb905eebabd764d8f3ab435ff80
+SHA512: e45f533852fcf470e01a26e7630dc7a70107a8f7ae08591d8ec2e182c35eefd3575b8de5f0a689d706aa22b401ca8d55b9615402d32a43d2db2dc8ff82f3efa1
+Homepage: http://beefproject.com/
+Description: BeEF is short for The Browser Exploitation Framework. It is a penetration testing tool that focuses on the web browser.
+
+Package: trape
+Architecture: all
+Version: 2.0
+Maintainer: WaSim Akram @evildevill
+Installed-Size: 4168
+Depends: python2.7, build-essential
+Filename: dists/termuxwhite/main/binary-all/trape_2.0_all.deb
+Size: 869250
+MD5sum: 8be449d281ad660438e89937fedc45bd
+SHA1: 739b887d84874725376794ec3861a8a89008fad0
+SHA256: e6d08ccb15e63aba87e0c45989a9d27af3dccc8429f1a401b711919c0c8f621d
+SHA512: 1858c601c0bf7b298f476f73480887adcdb1643e8235197526ac9c045625f7a14a25b55cc26cb902acdc2ab0bd01fc81380e9e8eafc293891ebe34e0613b63ac
+Homepage: https://github.com/jofpin/trape/blob/master/README.md
+Description: Trape is an OSINT analysis and research tool, which allows people to track and execute intelligent social engineering attacks in real time.
+
+Package: lemon
+Architecture: all
+Version: 2.0
+Maintainer: WaSim Akram @evildevill
+Installed-Size: 39548
+Depends: nodejs, apkmod
+Filename: dists/termuxwhite/main/binary-all/lemon_2.0_all.deb
+Size: 19194186
+MD5sum: 7ba6cc6822bf9a4b7dc83bb250c49f5e
+SHA1: a96657681d7c49983f0fa84d97206f96da087aef
+SHA256: a9f7f437ab79d75aa28414d72cbff50806c1027e7b98ab0a0cc79aa2eca13d9f
+SHA512: 7486d4fd6cdd45ae32660432c164a0a91fbd5b5bc053e666a82d57c4dac542495c8d96c06d8cdd36331006d0c77d8ad753b5675baf780ef5e3de6ee199b9fc6a
+Homepage: https://github.com/D3VL/L3MON
+Description: Remote Android Managment Suite
+
