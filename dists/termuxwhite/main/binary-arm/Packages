@@ -1,0 +1,121 @@
+Package: termux-elf-cleaner-5
+Architecture: arm
+Version: 5
+Maintainer: Fredrik Fornwall @fornwall
+Installed-Size: 60
+Filename: dists/termuxwhite/main/binary-arm/termux-elf-cleaner-5_5_arm.deb
+Size: 7892
+MD5sum: 782583dcbb363407929279758a480bb7
+SHA1: 209084e3d0ad3e4da12730614ea97dd998d38b3f
+SHA256: 0a18492eac5cbfa2b7b1ff583bd2fb33cb852cf54d0dfea190fe2781209ea404
+SHA512: 21bee672a01a8ca63ba2510f0f3c1ac13d8e28695130b0f82aadbddb05c3a89fe959b2386435cb359cf903057d69f02a13ccbd6e84698a0f5ecd951f41ed9e31
+Homepage: https://github.com/termux/termux-elf-cleaner
+Description: Cleaner of ELF files for Android
+
+Package: apkmod2
+Architecture: arm
+Version: 1.2
+Maintainer: WaSim Akram @evildevill
+Installed-Size: 60
+Depends: libxml2
+Filename: dists/termuxwhite/main/binary-arm/apkmod2_1.2_arm.deb
+Size: 5318
+MD5sum: 0e92cc611b64e45e98a224622ef8e0bc
+SHA1: cb78783b59b3188bcf43880cd24801f616e2204d
+SHA256: 4408818444b850a2ef9f6f9cccd5eb81259ee41e7388c1434af37cf3f6643223
+SHA512: 6a9ae59c1f25f8f759c981f9f1fe0a4ec35e2c837b5a4de588a45191f4afe7ffe0365bd7eaaf9f6c530eb80a46f9b0cc00aef34f0336b2ded815a0992546c6bd
+Homepage: Not Available
+Description: A RAT binder
+
+Package: apkmod2
+Architecture: arm
+Version: 1.1
+Maintainer: WaSim Akram @evildevill
+Installed-Size: 56
+Depends: libxml2
+Filename: dists/termuxwhite/main/binary-arm/apkmod2_1.1_arm.deb
+Size: 4760
+MD5sum: 7e25706e39a9828fde7911a5a5974ec1
+SHA1: ee4bdf99111853dcb66872b5554423bbc5fec308
+SHA256: 7494d17ea79d44a96e18b04704fe33d514f2982c03f8ae8dd757cd1b8e776282
+SHA512: 68200cf3cdde69e8b1b4f53f8489a6c9f522527feec2daf0c0f2945d2f7da025707b21efe3ebbce19fa3c3fc7735f4876a39887dddb1e71454de55f607c4efec
+Homepage: Not Available
+Description: A RAT binder
+
+Package: python2.7
+Architecture: arm
+Version: 2.7.18
+Maintainer: Fredrik Fornwall @fornwall
+Installed-Size: 17348
+Depends: libandroid-support, ncurses, readline, libffi, openssl, libbz2, libsqlite, gdbm, ncurses-ui-libs, libcrypt, zlib
+Conflicts: python2
+Breaks: python2-dev
+Replaces: python2-dev, python2
+Filename: dists/termuxwhite/main/binary-arm/python2.7_2.7.18_arm.deb
+Size: 4889714
+MD5sum: cce32bd2aa7b072eff4ff67d273ce7fe
+SHA1: 658561f69d4cd17d093ca83c51ae33d6a04ca91f
+SHA256: aba61315913a6a2e3b8512e6f603f145189291aa27c6ece7e20e18f8a955d33c
+SHA512: a9d5734c2b5594aa4d3e6afaa54cda8cc362c63cae488051cfdfbaea2c33a4e2c9c9a650d718025a6ebccca02cc754037064ecc8d6be3665e575fc8ed20e4b57
+Homepage: http://python.org/
+Description: Python 2 programming language intended to enable clear programs
+
+Package: pdfcrack
+Architecture: arm
+Version: 0.19
+Maintainer: WaSim Akram @evildevill
+Installed-Size: 100
+Filename: dists/termuxwhite/main/binary-arm/pdfcrack_0.19_arm.deb
+Size: 24234
+MD5sum: 65bbd15891d7b7f7d0ff945f83cb4851
+SHA1: 01833d7393dbb01598c4ee496ea2e818f2bf3083
+SHA256: 4f9dc56fd8506c997f51dbdb6ef9169b1e45db5a8db42496d0c255c974decaac
+SHA512: cb4d3df9917dd056095e78ba100de5fa2cf27a370dc921f298fbc1ab6113c409efead896a165f34ea017cafa385e1cf71d863631583edf43fcfb29d13df2f6fe
+Homepage: https://github.com/danmar/cppcheck
+Description: tool for static C/C++ code analysis
+
+Package: apkmod2
+Architecture: arm
+Version: 1.0
+Maintainer: WaSim Akram @evildevill
+Installed-Size: 56
+Depends: libxml2
+Filename: dists/termuxwhite/main/binary-arm/apkmod2_1.0_arm.deb
+Size: 4372
+MD5sum: ba7731324f8f1ff5063e8222e5c35d14
+SHA1: 968fe9dc604cfd0e42ad742220a3071603f74a1d
+SHA256: eb8cc5b3e9bc0bfaa8d166e6e8d3dc9536a73eed286799bc3c7bcdad87091675
+SHA512: 6c6d6af4b822f83fb71e320d39bcffed7aed4d9670ac903e96e3484c1fb8b37f6f7f99e5a6d14cfcb58fd070627ecf4f0caf65cfe0e5d549a03521fabbac03ea
+Homepage: Not Available
+Description: A RAT binder
+
+Package: apkmod2
+Architecture: arm
+Version: 1.3
+Maintainer: WaSim Akram @evildevill
+Installed-Size: 68
+Depends: libxml2
+Filename: dists/termuxwhite/main/binary-arm/apkmod2_1.3_arm.deb
+Size: 5412
+MD5sum: e0b5cd94438befc592b90c6ca5ab4735
+SHA1: bede8fa46576142f68acdd35b2de3ecd7de491ec
+SHA256: d8f6d05a6bf7b42c5a93017fd7c7449488e6d906e97e179a444b489fce9f39bd
+SHA512: da7debd12a9d2508057740a4a18ae0a572b99d165957edea55c51aa5808c1c239a226ec5dce1ef75267b94a31bc10a86ebcda8f211731222c66879b3022b6178
+Homepage: Not Available
+Description: A RAT binder
+
+Package: ssh-honeypot
+Architecture: arm
+Version: 0.1.0
+Maintainer: Fredrik Fornwall @fornwall
+Installed-Size: 60
+Depends: libssh, json-c
+Filename: dists/termuxwhite/main/binary-arm/ssh-honeypot_0.1.0_arm.deb
+Size: 6634
+MD5sum: 3203cc462d81ff1d45d035a2c168bd45
+SHA1: 25542abe738747341ae15b6192511d440158800a
+SHA256: fda6fb6fd02a6125d62e8e8151f763723a9968e8521fb65a3d037785d90793ab
+SHA512: 19cc376bfe5051dea0ba01d72d0f62b493a2f90254e122f05f013913a9b6ef9cbd0074c846eab98ebff869e0eb612314b3eeaed9364410135a4b857e9a17be0c
+Homepage: https://github.com/droberson/ssh-honeypot#quickstart
+Description: Fake sshd that logs ip addresses, usernames, and passwords.
+
