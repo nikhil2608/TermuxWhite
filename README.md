@@ -1,30 +1,6 @@
-<style type="text/css">
-
-	html{
-		scroll-behavior: smooth;
-		font-family: cursive;
-	}
-	p{
-		color: green;
-		font-family: cursive;
-
-	}
-	p:hover{
-		color: #fb2056;
-		text-transform: uppercase;
-		text-rendering: auto;
-	}
-	span{
-		color: red;
-	}
-	span:hover{
-		color: green;
-	}
-</style>
-
 ![logo](../master/images/IMG_20200529_153730.jpg)
 
-<p style="color: green; font-family: cursive;">it is unofficial repository maintained by me <span>@evildevill.</span> you can check available packages in README</p>
+<p style="color:green;>it is unofficial repository maintained by me <span>@evildevill.</span> you can check available packages in README</p>
 
 ### Install TermuXWhite
 1. <p>Just download installer script `wget https://github.com/evildevill/TermuxWhite/raw/master/install.sh`</p>
